@@ -91,12 +91,12 @@ if __name__ == '__main__':
     time.sleep(5)
     
     
-    # 以个人身份在群组中发帖
-    dir = "../douyin-downloader/Download/虫哥说电影/"
-    token ="EAADZBROPXRHgBAG80dprQ3QVdROZAycaZCRBlQh7ZCk0HZBxhGvqwflEANMlTb20fK8cB6jBnx90ZAXElpaiMd6bjAPsZBAHkXQvKw9zwHdnFs7NHIdXvelbW6PTuZBqoO58B4m5kdJuAYg5JxLGAXxVqZCA9OJmXHlTC68QLSl41bQZDZD"
-    id = "182766363336548"
-    postVideos(id, dir)
-    time.sleep(5)
+    #以个人身份在群组中发帖
+    #dir = "../douyin-downloader/Download/虫哥说电影/"
+    #token="EAADZBROPXRHgBAG80dprQ3QVdROZAycaZCRBlQh7ZCk0HZBxhGvqwflEANMlTb20fK8cB6jBnx90ZAXElpaiMd6bjAPsZBAHkXQvKw9zwHdnFs7NHIdXvelbW6PTuZBqoO58B4m5kdJuAYg5JxLGAXxVqZCA9OJmXHlTC68QLSl41bQZDZD"
+    #id = "182766363336548"
+    #postVideos(id, dir)
+    #time.sleep(5)
     
     
     
