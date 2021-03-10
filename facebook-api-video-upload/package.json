@@ -1,0 +1,15 @@
+{
+  "name": "facebook-api-video-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uploadVideo.js",
+  "dependencies": {
+    "facebook-api-video-upload": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
