@@ -1,0 +1,2 @@
+*/30 * * * * cd /mnt/blockstorage/facebook-api-video-upload-py/facebook-api-video-upload/ && /usr/bin/python3.7 /mnt/blockstorage/facebook-api-video-upload-py/facebook-api-video-upload/uploadVideo.py
+* */4 * * * cd /mnt/blockstorage/facebook-api-video-upload-py/youtube-upload/ && /usr/bin/python3.7 /mnt/blockstorage/facebook-api-video-upload-py/youtube-upload/youtube-api-upload.py
