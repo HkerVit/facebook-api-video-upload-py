@@ -46,7 +46,7 @@ def postVideos(url, dir):
             print("Exist:", file)
 
 if __name__ == '__main__':
-    dir = "../douyin-downloader/Download/你的兔妹妹/"
+    dir = "../douyin-downloader/Download/Abby心肝儿/"
     id = "UCq1bOUxwwcUAPkwZ3QFr6QA"
     db_host = "45.76.170.159"
     db_user = "db_poster"
